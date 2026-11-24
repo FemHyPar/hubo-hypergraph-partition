@@ -14,7 +14,7 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 10
     steps:
-      - name: Audit the public scaffold and fast-forward public main
+      - name: Audit the public release and fast-forward public main
         env:
           PRIVATE_READ_TOKEN: ${{ github.token }}
           HUBO_PUBLIC_RELEASE_SSH_KEY: ${{ secrets.HUBO_PUBLIC_RELEASE_SSH_KEY }}

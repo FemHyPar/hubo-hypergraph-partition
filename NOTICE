@@ -1,0 +1,11 @@
+Copyright 2026 the fem-hypergraph-partition contributors.
+Required notice: https://github.com/yao-baijian/qubo-hypergraph-partition
+FemHyPar HUBO distribution: https://github.com/FemHyPar/hubo-hypergraph-partition
+Commercial licensing: byao@connect.ust.hk
+
+Project-owned software and binaries are licensed under the accompanying
+PolyForm Noncommercial License 1.0.0. PyTorch (including LibTorch) and
+NVIDIA CUDA runtime libraries are supplied by the user's installation
+under their respective licenses. Their notices are available at
+https://github.com/pytorch/pytorch/blob/v2.9.1/LICENSE and
+https://docs.nvidia.com/cuda/eula/index.html.
